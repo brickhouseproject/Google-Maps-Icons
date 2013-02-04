@@ -8,3 +8,13 @@ Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product com.android.i
 
 !ENTRY com.android.ide.eclipse.ddms 4 0 2013-02-03 14:54:31.464
 !MESSAGE DDMS files not found: C:\Developer\ADT Bundle\adt-bundle-windows-x86_64\eclipse\platform-tools\adb.exe C:\Developer\ADT Bundle\adt-bundle-windows-x86_64\eclipse\tools\hprof-conv.exe C:\Developer\ADT Bundle\adt-bundle-windows-x86_64\eclipse\tools\traceview.bat 
+!SESSION 2013-02-03 15:00:27.013 -----------------------------------------------
+eclipse.buildId=v21.0.1-543035
+java.version=1.6.0_37
+java.vendor=Apple Inc.
+BootLoader constants: OS=macosx, ARCH=x86_64, WS=cocoa, NL=en_US
+Framework arguments:  -product com.android.ide.eclipse.adt.package.product -keyring /Users/will0417/.eclipse_keyring -showlocation
+Command-line arguments:  -os macosx -ws cocoa -arch x86_64 -product com.android.ide.eclipse.adt.package.product -keyring /Users/will0417/.eclipse_keyring -showlocation
+
+!ENTRY org.eclipse.core.net 1 0 2013-02-03 15:01:26.336
+!MESSAGE System property http.nonProxyHosts has been set to local|*.local|169.254/16|*.169.254/16 by an external source. This value will be overwritten using the values from the preferences
